@@ -1,4 +1,4 @@
-## CS5265 Foundations of Machine Learning (ZHANG)
+## CS5265 Foundations of Machine Learning
 ### Week 6 Assignment: Feature Engineering
 **Deadline: Sunday 6/19 11:59PM (CDT)**
 
@@ -23,6 +23,7 @@ Read chapters 5 and 6 of  Max Kuhn’s http://www.feat.engineering/
   - Description of the variable you plan to perform feature engineering on
   - Description of the plan of your feature engineering process
   - Rationale of your choice of feature
+  - Plan for unit testing after introducing this feature (no implementation needed; just a description will suffice)
 - Implement your feature engineering step for the two chosen variables using Python in your notebook (this can be your notebook from assign-05). **NOTE**: If you already engineered two features from assign-05, feel free skip the implementation in this step
 - Close each issue with a commit 
 - Update your pipeline to include the two new features 
